@@ -25,7 +25,7 @@ Categories and Count:
  - category abbreviation: opt, thing, qual
  - count: 1-1200 per image
 - 224px * 224px images
- - White word printed on black background
+ - Black word printed on white background
 
 ## Data Generation
 
