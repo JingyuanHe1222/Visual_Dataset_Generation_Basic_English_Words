@@ -3,7 +3,7 @@
 -----
 ## Word Data
 
-Reference: Ogden's 850 Basic English Words
+Source: Ogden's 850 Basic English Words
 
 Link: http://ogden.basic-english.org/words.html
 
@@ -24,7 +24,7 @@ Categories and Count:
 
 ## Data Generation
 
-Reference: Modeling the Visual Word Form Area Using a Deep Convolutional Neural Network - Sandy Wiraatmadja, Garrison W. Cottrell
+Generation Format Reference: Modeling the Visual Word Form Area Using a Deep Convolutional Neural Network - Sandy Wiraatmadja, Garrison W. Cottrell
 
 Link: https://cogsci.mindmodeling.org/2016/papers/0435/paper0435.pdf
 
@@ -39,4 +39,7 @@ Link: https://cogsci.mindmodeling.org/2016/papers/0435/paper0435.pdf
 - Random font size from [12pt, 15pt, 18pt]
 - Random clockwise rotation [-15 to 15 degree]
 
-
+### Visual Data Format
+- category_word_count.png
+ - category abbreviation: opt, thing, qual
+ - count: 1-1200 per image
