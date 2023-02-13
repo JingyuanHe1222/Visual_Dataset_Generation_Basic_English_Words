@@ -19,7 +19,12 @@ Categories and Count:
 ## Visual Data Composition
  - 12000 images
   - 1200 images per word, 100 words
- - 224px * 224px per image
+  - 
+### Visual Data Format
+- category_word_count.png
+ - category abbreviation: opt, thing, qual
+ - count: 1-1200 per image
+- 224px * 224px images
  - White word printed on black background
 
 ## Data Generation
@@ -39,7 +44,3 @@ Link: https://cogsci.mindmodeling.org/2016/papers/0435/paper0435.pdf
 - Random font size from [12pt, 15pt, 18pt]
 - Random clockwise rotation [-15 to 15 degree]
 
-### Visual Data Format
-- category_word_count.png
- - category abbreviation: opt, thing, qual
- - count: 1-1200 per image
