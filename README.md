@@ -19,7 +19,7 @@ Categories and Count:
 ## Visual Data Composition
  - 12000 images
   - 1200 images per word, 100 words
-  - 
+  
 ### Visual Data Format
 - category_word_count.png
  - category abbreviation: opt, thing, qual
