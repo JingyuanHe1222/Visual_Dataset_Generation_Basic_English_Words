@@ -1,0 +1,6 @@
+come, get, give, go, keep, let, make, put, seem, take, be, do, have, say, see, send, may, will,
+about, across, after, against, among, at, before, between, by, down, from, in, off, on, over, through, to, under, up, with,
+as, for, of, till, than, a, the, all, any, every, little, much, no, other, some, such, that, this, I, he, you, who,
+and, because, but, or, if, though, while, how, when, where, why, again, ever, far, forward, here, near, now, out, still, then, there, together, well,
+almost, enough, even, not, only, quite, so, very, tomorrow, yesterday,
+north, south, east, west, please, yes. 
